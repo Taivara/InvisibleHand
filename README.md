@@ -1,0 +1,4 @@
+InvisibleHand
+=============
+
+UIAutomation Testing Framework.
